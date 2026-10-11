@@ -2,7 +2,7 @@
 
 My personal portfolio site showcasing my background, skills, and projects as a recent Computer Engineering graduate pursuing a career in front-end/web development.
 
-**Live site:** https://deft-douhua-f853e7.netlify.app/
+**Live site:** [https://deft-douhua-f853e7.netlify.app/](https://self-description-website.netlify.app/)
 
 ## What it includes
 
